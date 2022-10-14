@@ -133,3 +133,19 @@ img {
 .section-d_div2 {
   background: #333;
 }
+
+/* footer */
+.main-footer {
+  display: flex;
+  flex-direction: row;
+  padding: 2em;
+  background-color: black;
+}
+
+.main-footer div {
+  width: 50%;
+}
+
+.main-footer a {
+  color: #2690d4;
+}
